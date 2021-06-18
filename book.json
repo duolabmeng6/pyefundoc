@@ -1,3 +1,6 @@
 {
+    "plugins": [
+        "highlight"
+    ],
     "title": "pyefun 易函数 易函数视窗编程系统"
 }
